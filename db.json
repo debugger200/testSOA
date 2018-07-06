@@ -79,6 +79,22 @@
     "customer_currency_code":"USD",
     "updated_at":"2018-05-01T11:17:17Z"
   }
-  
+  ,
+  {
+    "customer_id":"25506",
+    "sales_rep_id":"2688",
+    "contact_name":"ABC Company test",
+    "address":"PO BOX 411",
+    "city":"Mt Pleasant",
+    "state":"MI",
+    "zip_code":"48858",
+    "country":"USA",
+    "contact_email":"",
+    "contact_phone":"",
+    "is_active":"YES",
+    "dealer_currency_code":"USD",
+    "customer_currency_code":"USD",
+    "updated_at":"2018-05-01T11:17:17Z"
+  }
 ]
 }
