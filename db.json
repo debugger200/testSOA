@@ -153,5 +153,102 @@
       "price_risk_tolerance": "Sensitive",
       "ownership_lifetime": "Uncertain"
     }
+  ],
+ "events": [
+    {
+      "event_id": "114",
+      "equipment_sn": "9XM01188",
+      "category_id": "1000",
+      "event_name": "Recondition W/ LVL 1 Prts Engine",
+      "planned_status": "false",
+      "date": "2018-12-11 00:00:00",
+      "event_hours": "6500",
+      "current_hours": "6720",
+      "event_description": "Hydraulic Fan Motor 7,000 Hour Maintenance",
+      "estimated_cost_range": "$376 - $400",
+      "event_type": "inspect",
+      "dissmiss_note": "Performing their on label"
+    },
+    {
+      "event_id": "115",
+      "equipment_sn": "7XM01188",
+      "category_id": "1000",
+      "event_name": "Hydraulic Fan Motor 7,000 Hour Maintenance",
+      "planned_status": "false",
+      "date": "2018-12-11 00:00:00",
+      "event_hours": "4534",
+      "current_hours": "6720",
+      "event_description": "Hydraulic Fan Motor 7,000 Hour Maintenance",
+      "estimated_cost_range": "$376 - $400",
+      "event_type": "inspect",
+      "dissmiss_note": "Performing their on label"
+    },
+    {
+      "event_id": "116",
+      "equipment_sn": "7XM01189",
+      "category_id": "1001",
+      "event_name": "Hydraulic Fan Motor 7,000 Hour Maintenance",
+      "planned_status": "false",
+      "date": "2018-12-11 00:00:00",
+      "event_hours": "5686",
+      "current_hours": "6720",
+      "event_description": "Hydraulic Fan Motor 7,000 Hour Maintenance",
+      "estimated_cost_range": "$376 - $400",
+      "event_type": "sos",
+      "dissmiss_note": "Performing their on label"
+    },
+    {
+      "event_id": "117",
+      "equipment_sn": "7XM01190",
+      "category_id": "1001",
+      "event_name": "Hydraulic Fan Motor 7,000 Hour Maintenance",
+      "planned_status": "false",
+      "date": "2018-12-11 00:00:00",
+      "event_hours": "744",
+      "current_hours": "7845",
+      "event_description": "Hydraulic Fan Motor 7,000 Hour Maintenance",
+      "estimated_cost_range": "$376 - $400",
+      "event_type": "inspect",
+      "dissmiss_note": "Performing their on label"
+    },
+    {
+      "event_id": "118",
+      "equipment_sn": "7XM01190",
+      "category_id": "1001",
+      "event_name": "Hydraulic Fan Motor 7,000 Hour Maintenance",
+      "planned_status": "false",
+      "date": "2018-12-11 00:00:00",
+      "event_hours": "6500",
+      "current_hours": "6720",
+      "event_description": "Hydraulic Fan Motor 7,000 Hour Maintenance",
+      "estimated_cost_range": "$376 - $400",
+      "event_type": "inspect",
+      "dissmiss_note": "Performing their on label"
+    }
+  ],
+ "model": [
+    {
+      "model_id": "D8RLRC",
+      "model_name": "TRACK TYPE TRACTORS",
+      "created_at": "2017-12-11 00:00:00",
+      "updated_at": "2017-12-11 00:00:00"
+    }
+  ],
+ "smscategories": [
+    {
+      "category_id": "1000",
+      "name": "ENGINE",
+      "last_updated_at": "2018-005:00:00"
+    },
+    {
+      "category_id": "1001",
+      "name": "TRANSMISSION",
+      "last_updated_at": "2018-005:00:00"
+    },
+    {
+      "category_id": "1002",
+      "name": "FINAl DRIVE",
+      "last_updated_at": "2018-005:00:00"
+    }
   ]
 }
