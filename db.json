@@ -96,6 +96,88 @@
     "customer_currency_code":"USD",
     "updated_at":"2018-05-01T11:17:17Z"
   }
+    ,
+  {
+    "customer_id":"5941",
+    "sales_rep_id":"2688",
+    "contact_name":"DTE - Michcon- Six Lakes",
+    "address":"PO BOX 411",
+    "city":"Mt Pleasant",
+    "state":"MI",
+    "zip_code":"48858",
+    "country":"USA",
+    "contact_email":"",
+    "contact_phone":"",
+    "is_active":"YES",
+    "dealer_currency_code":"USD",
+    "customer_currency_code":"USD",
+    "updated_at":"2018-05-01T11:17:17Z"
+  },
+  {
+    "customer_id":"23566",
+    "sales_rep_id":"2688",
+    "contact_name":"Bay Aggregate Inc",
+    "address":"PO BOX 411",
+    "city":"Mt Pleasant",
+    "state":"MI",
+    "zip_code":"48858",
+    "country":"USA",
+    "contact_email":"",
+    "contact_phone":"",
+    "is_active":"YES",
+    "dealer_currency_code":"USD",
+    "customer_currency_code":"USD",
+    "updated_at":"2018-05-01T11:17:17Z"
+  },
+  {
+    "customer_id":"25068",
+    "sales_rep_id":"2688",
+    "contact_name":"Rieth Riley Construction Co",
+    "address":"PO BOX 411",
+    "city":"Mt Pleasant",
+    "state":"MI",
+    "zip_code":"48858",
+    "country":"USA",
+    "contact_email":"",
+    "contact_phone":"",
+    "is_active":"YES",
+    "dealer_currency_code":"USD",
+    "customer_currency_code":"USD",
+    "updated_at":"2018-05-01T11:17:17Z"
+  },
+  {
+    "customer_id":"27414",
+    "sales_rep_id":"2688",
+    "contact_name":"DTE - Michcon- Grand Rapids",
+    "address":"PO BOX 411",
+    "city":"Mt Pleasant",
+    "state":"MI",
+    "zip_code":"48858",
+    "country":"USA",
+    "contact_email":"",
+    "contact_phone":"",
+    "is_active":"YES",
+    "dealer_currency_code":"USD",
+    "customer_currency_code":"USD",
+    "updated_at":"2018-05-01T11:17:17Z"
+  },
+  {
+    "customer_id":"28128",
+    "sales_rep_id":"2688",
+    "contact_name":"DTE - MT Pleasant Central Concrete Products Company Inc",
+    "address":"PO BOX 411",
+    "city":"Mt Pleasant",
+    "state":"MI",
+    "zip_code":"48858",
+    "country":"USA",
+    "contact_email":"",
+    "contact_phone":"",
+    "is_active":"YES",
+    "dealer_currency_code":"USD",
+    "customer_currency_code":"USD",
+    "updated_at":"2018-05-01T11:17:17Z"
+  }
+  
 ],
  
   "equipment": [
