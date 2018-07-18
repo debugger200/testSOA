@@ -239,8 +239,10 @@
     "price_risk_tolerance": "Sensitive",
     "ownership_lifetime": "Uncertain",
     "planned_status": "false",
+     "plannedStatus": true
   }
-  ],
+  
+],
  "events": [
     {
       "event_id": "114",
