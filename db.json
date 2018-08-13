@@ -64,20 +64,6 @@
                 "estimated_cost_range": 100,
                 "event_type": "testing_type",
                 "dissmiss_note": "NA"
-            },
-            {
-                "event_id": 2,
-                "equipment_sn": "ZEN",
-                "category_id": 1,
-                "event_name": "test_2",
-                "planned_status": "Y",
-                "date": "10/12/2018 12:00:00 AM",
-                "event_hours": 2,
-                "current_hours": 5,
-                "event_description": "value for test purpose",
-                "estimated_cost_range": 100,
-                "event_type": "testing_type",
-                "dissmiss_note": "NA"
             }
   ],
  "model": [
