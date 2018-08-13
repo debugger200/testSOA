@@ -90,24 +90,5 @@
       "name": "FINAl DRIVE",
       "last_updated_at": "2018-005:00:00"
     }
-  ],
- "repairoption":[{
-                "modelName": "D7R",
-                "serialNumber": "5KZ",
-                "repairOptionId": "6",
-                "CategoryId": 1000,
-                "serviceName": "Engine New",
-                "serviceDescription": " 1test",
-                "serviceSummary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                "serviceLevel": 0,
-                "firstInterval": 13000,
-                "nextInterval": 13000,
-                "plannedServiceMin": 0,
-                "plannedServiceMax": 47674,
-                "costPerHour": 0,
-                "timeToNextService": 500,
-                "keepYourIron": "",
-                "createdAt": "2018-07-18T06:55:27.65",
-                "updatedAt": "2018-08-13T11:43:39.617"
-            }]
+  ]
 }
