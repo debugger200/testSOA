@@ -123,24 +123,5 @@
                 "keepYourIron": "",
                 "createdAt": "2018-07-18T06:55:27.65",
                 "updatedAt": "2018-08-13T11:43:39.617"
-            },
-            {
-                "modelName": "D7R",
-                "serialNumber": "5KZ",
-                "repairOptionId": "1",
-                "CategoryId": 1000,
-                "serviceName": "Engine Rebearing & Reseal",
-                "serviceDescription": " tst",
-                "serviceSummary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                "serviceLevel": 0,
-                "firstInterval": 12000,
-                "nextInterval": 12000,
-                "plannedServiceMin": 0,
-                "plannedServiceMax": 47674,
-                "costPerHour": 0,
-                "timeToNextService": 500,
-                "keepYourIron": "",
-                "createdAt": "2018-07-18T06:55:27.62",
-                "updatedAt": "2018-08-13T11:43:39.617"
             }]
 }
