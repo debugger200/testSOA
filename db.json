@@ -80,16 +80,31 @@
 
   ],
  "smscategories": [
-    {
-    "categoryId": 1,
-    "name": null,
-    "lastUpdated": null
-  },
-  {
-    "categoryId": 2,
-    "name": null,
-    "lastUpdated": null
-  }
+            {
+                "categoryId": 1,
+                "name": "Engine",
+                "lastUpdated": "2018-08-13T08:37:52.737"
+            },
+            {
+                "categoryId": 2,
+                "name": "Transmission",
+                "lastUpdated": "2018-08-13T08:37:52.737"
+            },
+            {
+                "categoryId": 3,
+                "name": "Torque Converter",
+                "lastUpdated": "2018-08-13T08:37:52.737"
+            },
+            {
+                "categoryId": 4,
+                "name": "Differential",
+                "lastUpdated": "2018-08-13T08:37:52.737"
+            },
+            {
+                "categoryId": 5,
+                "name": "Final Drive",
+                "lastUpdated": "2018-08-13T08:37:52.737"
+            }
 
   ]
 }
