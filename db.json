@@ -56,7 +56,7 @@
                 "equipment_sn": "ZEN",
                 "category_id": 1,
                 "event_name": "test_1",
-                "planned_status": "Y",
+                "planned_status": "false",
                 "date": "12/12/2018 12:00:00 AM",
                 "event_hours": 2,
                 "current_hours": 5,
